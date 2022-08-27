@@ -1,0 +1,24 @@
+body {
+	background-image: url(../fonts/background.jpg);
+	Background-attachment: fixed;
+	Background-position: center;
+	Background-repeat: no-repeat;
+	Background-size: cover;
+	 width: 100%;
+    max-width: 100%;
+    overflow-x: hidden
+}
+.head { 
+		text-align: center;
+	}
+.card img {
+	 display: block;
+	 margin: 0 auto;
+	width: 350px;
+	height:290px;	
+}
+ .tables {
+	width: 300px;
+border: 1px solid #000;
+margin: auto;
+ }
